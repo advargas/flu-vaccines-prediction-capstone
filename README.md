@@ -1,11 +1,14 @@
 # flu-vaccines-prediction-capstone
 
 # Competition
+
+Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines
+
 [https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/](https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/) 
 
 # Contexto
 
-El objetivo es predecir si una persona fue vacunada con la vacuna H1N1 o gripe estacional, de acuerdo a información compartida acerca de su contexto, opinioes y comportamientos a nivel salud.
+Can you predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors? Competition hosted by DrivenData.
 
 You are provided a dataset with 36 columns. The first column respondent_id is a unique and random identifier. The remaining 35 features are described below.
 
