@@ -6,7 +6,7 @@ Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines
 
 [https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/](https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/) 
 
-# Contexto
+# Context
 
 Can you predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors? Competition hosted by DrivenData.
 
