@@ -4,13 +4,15 @@
 
 Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines
 
-[https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/](https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/) 
+Can you predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors. Competition hosted by [DrivenData](https://www.drivendata.org/).
 
-# Context
+[https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/](https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/)
 
-Can you predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors? Competition hosted by DrivenData.
+# Dataset
 
 You are provided a dataset with 36 columns. The first column respondent_id is a unique and random identifier. The remaining 35 features are described below.
+
+[https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/](https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/)
 
 For all binary variables: 0 = No; 1 = Yes.
 
@@ -57,4 +59,15 @@ For all binary variables: 0 = No; 1 = Yes.
 *   `household_children` - Number of children in household, top-coded to 3.
 *   `employment_industry` - Type of industry respondent is employed in. Values are represented as short random character strings.
 *   `employment_occupation` - Type of occupation of respondent. Values are represented as short random character strings. 
+
+# Methodology
+
+The data analysis and prediction will cover the following phases:
+
+1. **EDA:** The Exploratory Data Analysis phase will cover to explore the initial data set, remove duplicates, remove irrelevant variables, reduce the number of null values, and to convert categorical variables into numeric values.
+2. **FE/FS:** The Feature Extraction/Selection phase will cover to select on some of the most relevant variables.
+3. **Unsupervised Learning:** Apply several unsupervise algorithms to find similar patterns.
+4. **Supervised Learning:** Apply several algorithms to get the final prediction of the dependant variable (whether people got H1N1 and seasonal flu vaccines), in relation with the independent variables.
+
+
 
